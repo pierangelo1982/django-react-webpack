@@ -1,0 +1,9 @@
+*.pyc
+media
+*.pdf
+*.zip
+*.tar.gz
+env
+.vscode
+my.cnf
+node_modules
